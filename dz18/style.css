@@ -1,0 +1,14 @@
+.hobby {
+  font-size: 20px;
+  text-align: center;
+}
+
+.hobby > span {
+    font-size: 25px;
+    color: red;
+}
+
+#title {
+ text-align: center;
+ color: green;
+}
